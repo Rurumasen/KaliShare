@@ -1,2 +1,11 @@
+
 # KaliShare
-Share your kali linux file in a folder to a mobile and other devices. This also allow to view download and upload files for easy sharing
+
+Share your file on the specific folder using this python code!
+
+## Features
+
+- View files
+- Download files
+- Upload files
+
